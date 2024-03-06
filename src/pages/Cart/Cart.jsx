@@ -8,7 +8,7 @@ const Cart = () => {
   let alertRef = useRef(null)
   const [total, setTotal] = useState(0)
   const [cart, setCart] = useState(JSON.parse(localStorage.getItem("cart")) || [])
-  const{appData, setAppData} = useContext(allData)
+  const { appData, setAppData } = useContext(allData)
 
   useEffect(() => {
     const total = cart?.reduce((acc, item) => acc + (item.price * item.quantity), 0)
@@ -30,13 +30,13 @@ const Cart = () => {
       return item
     })
     localStorage.setItem('cart', JSON.stringify(updatedCart))
-    setAppData({...appData, cart: updatedCart})
+    setAppData({ ...appData, cart: updatedCart })
     setCart(updatedCart)
   }
   const removeProduct = (id) => {
     let updatedCart = cart.filter(item => item.id != id)
     window.localStorage.setItem('cart', JSON.stringify(updatedCart))
-    setAppData({...appData, cart: updatedCart})
+    setAppData({ ...appData, cart: updatedCart })
     setCart(updatedCart)
   }
   const handleDec = (id) => {
@@ -58,7 +58,7 @@ const Cart = () => {
       removeProduct(id)
     } else {
       localStorage.setItem('cart', JSON.stringify(updatedCart))
-      setAppData({...appData, cart: updatedCart})
+      setAppData({ ...appData, cart: updatedCart })
       setCart(updatedCart)
     }
   }
@@ -66,10 +66,10 @@ const Cart = () => {
     // alertRef.current.style.opacity="0"
     // alertRef.current.style.transition="opacity 14s 0"
     localStorage.removeItem('cart')
-    alertRef.current.style.translate="0 170px"
-    setAppData({...appData, cart: []})
+    alertRef.current.style.translate = "0 170px"
+    setAppData({ ...appData, cart: [] })
   }
-  if(!appData.user){
+  if (!appData.user) {
     return <main className='container px-2 m-auto text-center'>log in first</main>
   }
   if (cart?.length === 0 || cart === null) {
@@ -80,7 +80,7 @@ const Cart = () => {
     <div className="container mx-auto mt-10">
       <div ref={alertRef} className='fixed left-0 -top-16 w-full transition-all'>
         <div className="p-4 mb-4 text-sm text-green-800 rounded-lg bg-green-50 dark:bg-gray-800 dark:text-green-400" role="alert">
-          <span className="font-medium">Success!</span> Your order will be delivered soon.
+          Payment completed successfully.
         </div>
       </div>
       <div className="flex flex-col md:flex-row shadow-md my-10">
