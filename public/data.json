@@ -1,0 +1,357 @@
+[
+  {
+    "id": 1,
+    "name": "V14 Gen 2 (14, AMD)",
+    "price": 1000,
+    "info": [
+      "AMD-based SMB laptop",
+      "Integrated security features",
+      "Two sleek color options"
+    ],
+    "quantity": 1,
+    "gen": "14",
+    "img": "/laptops/laptops-v-series-v14-gen2-14inch-amd-front.webp",
+    "brand": "lenovo"
+  },
+  {
+    "id": 2,
+    "name": "16p Gen 2 (16, AMD)",
+    "price": 600,
+    "quantity": 1,
+    "info": [
+      "stylish aluminum laptop for business",
+      "2.5K display with X-Rite Pantone color calibration",
+      "Robust security features"
+    ],
+    "gen": "16",
+    "img": "/laptops/aptop-thinkbook-16p-gen-2-16-amd-series-thumbnail.webp",
+    "brand": "Think"
+  },
+  {
+    "id": 3,
+    "name": "5 Pro Gen 6 (14, AMD)",
+    "price": 1200,
+    "quantity": 1,
+    "info": [
+      "entertainment laptop",
+      "Up to Widnows 10 Pro",
+      "Up to AMD Ryzen™ 7-5800U processor",
+      "Up to QHD 400-nit display"
+    ],
+    "gen": "14",
+    "img": "/laptops/laptops-ideapad-500-series-5-pro-gen-6-14-amd-front.webp",
+    "brand": "IDEAPAD"
+  },
+  {
+    "id": 4,
+    "name": "5 Pro Gen 6 (16, AMD)",
+    "price": 1100,
+    "quantity": 1,
+    "info": [
+      "entertainment laptop",
+      "Up to Windows 10 Pro",
+      "Up to AMD Ryzen™ 9-5900H processor",
+      "Up to QHD 350-nit display"
+    ],
+    "gen": "16",
+    "img": "/laptops/laptops-ideapad-500-series-5-pro-gen-6-16-amd-front.webp",
+    "brand": "IDEAPAD"
+  },
+  {
+    "id": 5,
+    "name": "4G LTE",
+    "price": 700,
+    "quantity": 1,
+    "info": [
+      "LTE-enabled laptop",
+      "Ultrathin & ultralight",
+      "All-day battery life"
+    ],
+    "gen": "14",
+    "img": "/laptops/laptop-ideapad-4g-series.webp",
+    "brand": "IDEAPAD"
+  },
+  {
+    "id": 6,
+    "name": "P17 Gen 2 (17, Intel)",
+    "price": 750,
+    "quantity": 1,
+    "info": [
+      "ultrapowerful mobile workstation",
+      "High-end NVIDIA® graphics & Intel® processing",
+      "Amazing display options & tons of storage"
+    ],
+    "gen": "17.3",
+    "img": "/laptops/wmd00000480 (1).webp",
+    "brand": "Think"
+  },
+  {
+    "id": 7,
+    "name": "P16 (16, Intel)",
+    "price": 780,
+    "quantity": 1,
+    "info": [
+      "Powerful pro-level mobile workstation",
+      "Up to 12th Gen Intel® Core™ HX Series processors",
+      "NVIDIA® RTX™ graphics & OLED display options"
+    ],
+    "gen": "16",
+    "img": "/laptops/lenovo-laptops-thinkpad-p16-16-intel-series.webp",
+    "brand": "Think"
+  },
+  {
+    "id": 8,
+    "name": "T15p Gen 3 (15, Intel)",
+    "price": 900,
+    "quantity": 1,
+    "info": [
+      "Up to Intel® Core™ i7 processors for on-the-go power",
+      "Choice of stunning displays, includng UHD screen",
+      "Optional NVIDIA® GeForce RTX™ graphics"
+    ],
+    "gen": "15",
+    "img": "/laptops/lenovo-laptops-thinkpad-t15p-gen-3-15-intel-series.avif",
+    "brand": "Think"
+  },
+  {
+    "id": 9,
+    "name": "Gaming 3i Gen 6 (15, Intel)",
+    "price": 950,
+    "quantity": 1,
+    "info": [
+      "laptop for gamers",
+      "Powerful discrete graphics",
+      "Immersive Nahimic audio"
+    ],
+    "gen": "15",
+    "img": "/laptops/lenovo-laptop-ideapad-gaming-3i-gen-6-15-intel-series-thumbnail.webp",
+    "brand": "IDEAPAD"
+  },
+  {
+    "id": 10,
+    "name": "14e Chromebook Gen 2",
+    "price": 1150,
+    "quantity": 1,
+    "info": [
+      "student Chromebook",
+      "Powered by AMD processors",
+      "Durable & secure"
+    ],
+    "gen": "14",
+    "img": "/laptops/download.webp",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 11,
+    "name": "P16s (16, AMD)",
+    "price": 1300,
+    "quantity": 1,
+    "info": [
+      "Thin, light ISV-certified mobile workstation",
+      "AMD Ryzen™ processors & AMD Radeon™ graphics",
+      "Multiple 16″ hi-res display options, including touchscreens"
+    ],
+    "gen": "16",
+    "img": "/laptops/lenovo-laptops-thinkpad-p16s-16-amd-series.webp",
+    "brand": "Think"
+  },
+  {
+    "id": 12,
+    "name": "Slim 7i Carbon Gen 8 (13, Intel)",
+    "price": 720,
+    "quantity": 1,
+    "info": [
+      "Highly responsive 13.3″ Intel® Evo™ -powered laptop",
+      "Stunning QHD display with discrete graphics",
+      "Unique durable, lightweight carbon-fiber cover"
+    ],
+    "gen": "7",
+    "img": "/laptops/lenovo-laptops-yoga-slim-7i-carbon-gen-8-13-intel-series.avif",
+    "brand": "YOGA"
+  },
+  {
+    "id": 13,
+    "name": "Slim 6i Gen 8 (14, Intel)",
+    "price": 930,
+    "quantity": 1,
+    "info": [
+      "Premium Intel® Evo™-powered laptop",
+      "Stunning optional 14″ OLED display",
+      "Plenty of memory & storage"
+    ],
+    "gen": "8",
+    "img": "/laptops/lenovo-laptops-yoga-slim-6i-gen-8-14-intel-series.webp",
+    "brand": "YOGA"
+  },
+  {
+    "id": 14,
+    "name": "X1 Titanium Yoga (13.5\" Intel)",
+    "price": 1050,
+    "quantity": 1,
+    "info": [
+      "Powerful Intel® Evo™ 2-in-1 laptop",
+      "AI & biometric security",
+      "Titanium top cover"
+    ],
+    "gen": "13.5",
+    "img": "/laptops/lenovo-laptop-thinkpad-x1-titanium-yoga-series.avif",
+    "brand": "Think"
+  },
+  {
+    "id": 15,
+    "name": "V17 Gen 2 (17, Intel)",
+    "price": 890,
+    "quantity": 1,
+    "info": [
+      "Intel®-powered 17\" SMB laptop",
+      "Massive display & numeric keypad",
+      "Versatile & secure"
+    ],
+    "gen": "17",
+    "img": "/laptops/lenovo-laptops-v-series-v17-gen2-intel-series.webp",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 16,
+    "name": "Slim 7 Pro Gen 6 (16, AMD)",
+    "price": 1400,
+    "quantity": 1,
+    "info": [
+      "AMD Ryzen™ 5000 Series Mobile Processors",
+      "Beautiful 16\" QHD display with slim borders",
+      "Remarkably thin & stylish"
+    ],
+    "gen": "16",
+    "img": "/laptops/lenovo-laptop-yoga-slim-7-pro-gen-6-16-amd-series-thumbnail.webp",
+    "brand": "YOGA"
+  },
+  {
+    "id": 17,
+    "name": "Slim 7 Pro X (14, AMD)",
+    "price": 750,
+    "quantity": 1,
+    "info": [
+      "Powerful AMD Ryzen™ 6000 Series Mobile Processors",
+      "Stunning 14.5″ 3K display with NVIDIA® graphics",
+      "Remarkably thin & light"
+    ],
+    "gen": "14.5",
+    "img": "/laptops/lenovo-laptops-yoga-slim-7-pro-x-gen-7-14-amd-series.webp",
+    "brand": "YOGA"
+  },
+  {
+    "id": 18,
+    "name": "16p Gen 4 (16, Intel)",
+    "price": 690,
+    "quantity": 1,
+    "info": [
+      "Immersive 16″ laptop powered by 13th Gen Intel® Core™ processors",
+      "Big performance & optional dedicated NVIDIA® graphics",
+      "Exclusive Magic Bay optional suite of accessories"
+    ],
+    "gen": "16",
+    "img": "/laptops/lenovo-thinkbook-16p-gen-4-16-intel-series-tn.avif",
+    "brand": "Think"
+  },
+  {
+    "id": 19,
+    "name": "T15g Gen 2 (15, Intel)",
+    "price": 845,
+    "quantity": 1,
+    "info": [
+      "15.6\" innovative graphics-focused mobile workstation",
+      "Engineered for creative professionals",
+      "Discrete NVIDIA® graphics and vivid display options"
+    ],
+    "gen": "15.6",
+    "img": "/laptops/wmd00000484.webp",
+    "brand": "Think"
+  },
+  {
+    "id": 20,
+    "name": "Slim 7 Gen 7 (16, AMD)",
+    "price": 999,
+    "quantity": 1,
+    "info": [
+      "AMD Ryzen™ Mobile Processors bring hard-hitting power",
+      "Windows 11 Pro",
+      "AMD Radeon™ RX 6000S Series Graphics for serious gamers",
+      "See every detail on a brilliant 16″ WQXGA display"
+    ],
+    "gen": "7",
+    "img": "/laptops/lenovo-gaming-legion-slim-7-gen-7-16-amd-front.webp",
+    "brand": "LEGION"
+  },
+  {
+    "id": 21,
+    "name": "Slim 7i Gen 7 (16, Intel)",
+    "price": 1199,
+    "quantity": 1,
+    "info": [
+      "Thin & powerful with 12th Gen Intel® Core Processors",
+      "Play on max settings with NVIDIA® GeForce RTX™ 30 Series GPU's",
+      "Top-flight visuals with several WXQGA display options"
+    ],
+    "gen": "12",
+    "img": "/laptops/lenovo-gaming-legion-slim-7i-gen-7-16-intel-series.webp",
+    "brand": "LEGION"
+  },
+  {
+    "id": 22,
+    "name": "P15 Gen 2 (15, Intel)",
+    "price": 849,
+    "quantity": 1,
+    "info": [
+      "Professional-grade NVIDIA® RTX™ graphics",
+      "Highly customizable, ISV-certified 15.6\" powerhouse",
+      "Ideal for students, engineers, CAD, and industrial professions"
+    ],
+    "gen": "5.6",
+    "img": "/laptops/wmd00000487.webp",
+    "brand": "Think"
+  },
+  {
+    "id": 23,
+    "name": "7 Gen 7 (16, AMD)",
+    "price": 949,
+    "quantity": 1,
+    "info": [
+      "Gaming prowess with AMD Advantage™ Edition gaming laptops",
+      "Up to Windows 11 Pro",
+      "Beautiful 16″ WQXGA display options including 240Hz variable refresh rate",
+      "Engineered for enthusiasts with AMD Radeon™ 6000M graphics"
+    ],
+    "gen": "7",
+    "img": "/laptops/lenovo-gaming-legion-7-gen-7-16-amd-series.webp",
+    "brand": "LEGION"
+  },
+  {
+    "id": 24,
+    "name": "7i Gen 7 (16, Intel)",
+    "price": 1199,
+    "quantity": 1,
+    "info": [
+      "Better than ever with 12th Gen Intel® Core™ HX processors",
+      "Up to Windows 11 Pro",
+      "Super vivid visuals on a 16″ WQXGA display with up to 240Hz variable refresh rate",
+      "Coveted graphics power from NVIDIA® GeForce RTX™ 30 series GPU's"
+    ],
+    "gen": "7",
+    "img": "/laptops/lenovo-gaming-legion-7i-gen-7-16-intel-series.webp",
+    "brand": "LEGION"
+  },
+  {
+    "id": 25,
+    "name": "5 Pro Gen 7 (16, AMD)",
+    "price": 599,
+    "quantity": 1,
+    "info": [
+      "Leveled-up performance with AMD Ryzen™ 6000 H-Series Mobile Processors",
+      "Razor-sharp graphics from NVIDIA® GeForce RTX™ 30 Series GPUs",
+      "DDR5 memory that pushes you ahead"
+    ],
+    "gen": "7",
+    "img": "/laptops/lenovo-laptops-legion-5-pro-gen-7-16-amd-series-front.webp",
+    "brand": "LEGION"
+  }
+]

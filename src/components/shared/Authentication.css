@@ -1,0 +1,14 @@
+.auth {
+  nav a.active {
+    border-color: black;
+  }
+  .input-con:has(input:not(:placeholder-shown)),
+  .input-con:has(input:focus) {
+    opacity: 1;
+    border-bottom-color: black;
+    span {
+      top: 0;
+      font-size: 12px;
+    }
+  }
+}

@@ -1,0 +1,22 @@
+:root{
+  --yDark:#24282A;
+  scroll-behavior: smooth;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.auth{
+  min-height: calc(100vh - 88px);
+}
+body,#root{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+main{
+  flex: 1;
+}
