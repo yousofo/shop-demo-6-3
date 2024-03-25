@@ -50,12 +50,12 @@ const Header = () => {
                 <path fill="none" stroke="#fff" strokeMiterlimit="20" strokeWidth=".15" d="M16.77 22.11H2.01V7.94h14.76zM6.58 5.19a2.61 2.61 0 0 1 2.61-2.61h.4a2.61 2.61 0 0 1 2.61 2.61v1.26H6.58zm10.94 1.26h-3.83V5.19a4.11 4.11 0 0 0-4.1-4.1h-.4a4.11 4.11 0 0 0-4.1 4.1v1.26H1.3a.75.75 0 0 0-.74.75v15.67a.74.74 0 0 0 .74.74h16.26a.74.74 0 0 0 .74-.74V7.2a.75.75 0 0 0-.78-.75z"></path>
               </svg>
               <span className='absolute h-fit pt-2 text-green-600 left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2'>
-                {appData.cart.length }
+                {appData.cart.length}
               </span>
             </Link>
           </li>
           <li>
-            <Link to="favourites" className='nav-link p-1 xs:p-2 text-yDark uppercase'><span>Favorites</span></Link>
+            <Link to="favourites" className='nav-link p-1 xs:p-2 text-yDark uppercase inline-block h-fit'><span>Favorites</span></Link>
           </li>
           <li className='relative'>
             <span className='absolute left-0 top-0 bg-yDark h-full w-[1px]'></span>
